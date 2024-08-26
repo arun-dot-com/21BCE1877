@@ -22,7 +22,7 @@ This project presents a turn-based chess-like game designed with a server-client
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/arun-dot-com/21BCE1877.git
+   git clone https://github.com/arun-dot-com/Arun_Santhosh_21BCE1877.git
    ```
 2. **Install the dependencies:**
    ```bash
